@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/YNsZ4eR.png" alt="Welcome Banner" width="100%" />
+  <img src="https://t3.ftcdn.net/jpg/06/10/32/32/360_F_610323282_MrDMxG4UsIH89RToe0Y1bnlCZo4G0X1L.jpg" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Timilehin</h1>
