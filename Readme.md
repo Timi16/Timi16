@@ -1,7 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/134459045?s=400&u=2d38cdf706c035992d4d55f1a68dc00ee195a250&v=4" alt="Welcome Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 Hello, I'm Timilehin</h1>
 <h3 align="center">Full-Stack & Blockchain Developer | Math Geek 🧮</h3>
