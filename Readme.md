@@ -11,7 +11,7 @@
 
 ### ⚡ About Me
 - 🧠 **Math enthusiast** — I find patterns in both code and equations.  
-- 💻 **4+ years** building fintech, AI-powered, and blockchain applications.  
+- 💻 **Open source builder** Love contributing to Open source.  
 - 🔐 Passionate about **performance**, **security**, and **unforgettable user experiences**.  
 - 🌍 Based in **Lagos, Nigeria**.  
 - 📫 Reach me: [timilehinolowu46@gmail.com](mailto:timilehinolowu46@gmail.com)
